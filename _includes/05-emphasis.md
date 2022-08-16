@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Coding skills:
+  * **Python**, **C++**, **R**, **HTML/CSS/Javascript**
+* Hobbies
+  * Making beats in *FL Sudio* :cool:
